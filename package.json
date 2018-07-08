@@ -1,0 +1,16 @@
+{
+  "name": "client-lab",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "webpack-dev-server"
+  },
+  "author": "Bryan Didur",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "webpack": "^2.7.0",
+    "webpack-dev-server": "^2.11.2"
+  }
+}
